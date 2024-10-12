@@ -60,7 +60,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 56;
+    padding-top: 56px;
     padding-bottom: 75px;
     background-size: cover;
     background-position: center; 
@@ -223,7 +223,6 @@ button {
 }
 
 footer{
-    margin: 19px;
     height: 200px;
     display: flex;
     flex-direction: column;

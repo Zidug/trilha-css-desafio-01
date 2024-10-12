@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-    width: 1920px;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     justify-content: center;
     align-items: center;
 
@@ -48,8 +48,7 @@ main {
 }
 
 .banner {
-    width: Hug (510px)px;
-    height: Hug (393px)px;
+    width: 100%;
     top: 56px;
     left: 465px;
     gap: 16px;
